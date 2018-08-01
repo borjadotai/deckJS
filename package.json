@@ -1,0 +1,30 @@
+{
+  "name": "Deck.JS",
+  "description": "Turn beautiful slide decks into gorgeous webapps",
+  "version": "1.0.0",
+  "author": "@borjadotai <borja@jarvin.io>",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.2",
+    "@fortawesome/free-brands-svg-icons": "^5.2.0",
+    "@fortawesome/free-solid-svg-icons": "^5.2.0",
+    "@fortawesome/react-fontawesome": "0.1.0-11",
+    "bloomer": "^0.6.3",
+    "bulma": "^0.6.2",
+    "font-awesome": "^4.7.0",
+    "gatsby": "^1.9.277",
+    "gatsby-link": "^1.6.39",
+    "gatsby-plugin-react-helmet": "^2.0.8",
+    "gatsby-plugin-sass": "^1.0.26",
+    "i": "^0.3.6",
+    "npm": "^6.2.0",
+    "react-helmet": "^5.2.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop"
+  }
+}
