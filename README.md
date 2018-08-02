@@ -77,10 +77,11 @@ Hello and welcome to the ultimate guide to learn how to use DeckJS! 🍿🥤
 
 Let me start by telling you about the topics we are going to cover:
 
-- Structure
-- Cover
-- Store
-- Content
+- Structure (How does deck work)
+- Cover (What's the cover for)
+- Store (How do I use the store)
+- Content (Creating content in slides - Components)
+- Ready? Launch it! 🚀 (How to deploy)
 
 ## 💻 Contribuite to Deck
 
