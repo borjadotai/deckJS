@@ -77,19 +77,46 @@ Hello and welcome to the ultimate guide to learn how to use DeckJS! 🍿🥤
 
 Let me start by telling you about the topics we are going to cover:
 
-- Structure (How does deck work)
+- Structure (How does deck look behind the scenes)
 - Cover (What's the cover for)
 - Store (How do I use the store)
 - Content (Creating content in slides - Components)
 - Ready? Launch it! 🚀 (How to deploy)
 
-## 💻 Contribuite to Deck
+### Structure 
+The moment you create a new template with Deck, you'll find a structure with the following relevant files and folders:
+```
+| node_modules (no explanation needed lol)
+| public (this is were your static webapp will be when built)
+| src
+- | assets (place for all non code)
+- | components (Necessary components storage)
+- - | Cover.js (Main slide that you'll need to edit)
+- | data
+- - | content (Where the components that act as slide content live)
+- - - | slide1 (example)
+- - - | slide2 (example)
+- - - | slide3 (example)
+- - | Social.js (Social media setup)
+- - | Store.js (THE STORE)
+- | layouts
+- - | all.scss (All styles are setup here)
+- - | index.js (Main layout file)
+- - | styles.scss (Custom scsss - worth having a look)
+| gatsby-config.js (If you want to install any gatsby plugin)
+```
+Now that you have an idea of how a project looks like, let's get into understanding how everything works together.
+
+### Cover
+
+
+## 🤝 Contribuite to Deck
 
 If you feel like there's anything that should be different, any bug or simply any feature that you would like to see on DeckJS, please feel free to create a new issue, make a PR or contact me!
 
 This is an Open Source project and so we would love to see as many people as possible involved collaborating to make Deck evolve day after day! Join us and make webs great again 😜😂
 
-## 💙 Join the family
+## ❤️ Join the family
 
 Are you planning to use or have you used Deck already? 
 Mind telling us what you made? We are putting together a portfolio section on the official web and we would love to add a small thumbnail with a link to your deck to show what amazing things can be built with DeckJS!
