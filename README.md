@@ -108,7 +108,46 @@ The moment you create a new template with Deck, you'll find a structure with the
 Now that you have an idea of how a project looks like, let's get into understanding how everything works together.
 
 ### Cover
+Even thought we are using the powerful slide deck format, we still are creating a webapp and so, if you want to have a very different and personal front page / main slide on top of everything else and a first piece of content, you can do so! 
 
+The cover is the only slide that you can fully modify. As you can see in the structure, Cover.js is a file that lives inside src/components. As you can imagine, it is a component itself. If you have experience with React, feel free to go ahead and modify that component as you want! 
+
+If you're new to react, it might be worth having a read at <a href="https://reactjs.org/">React</a> and <a href="https://www.gatsbyjs.org/">Gatsby</a>
+
+If you've played with component before, let me introduce you to a couple of friends:
+
+- <a href="">Bulma</a>: Bulma is a great CSS framework that we use as base for our styles. 
+
+- <a href="">Bloomer</a>: React library based on Bulma that had built in components usign those styles.
+
+```js
+<Hero isFullHeight isColor="primary">
+    <HeroHeader>
+      <Header />
+    </HeroHeader>
+
+    <HeroBody>
+      <Container hasTextAlign="centered">
+        <img src={logo} style={{ height: '12rem', margin: '0 0 2rem 0' }} />
+        <Title className="is-size-2 is-size-4-mobile has-text-weight-light">
+          Create your best presentation, as a <span className="has-text-weight-normal">static webapp</span> with <span className="has-text-weight-normal">DeckJS</span>.
+        </Title>
+        <Title className="is-size-3 is-size-5-mobile has-text-weight-light">
+          Thanks for having installed DeckJS. Welcome to a new way of making webs.
+        </Title>
+        <Title className="is-size-4 is-size-6-mobile has-text-weight-light">
+          Please give a star and upvote or like on whatever platform you found us! 🙏❤️
+        </Title>
+        <div className="isCentered">
+          <iframe src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+          <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+        </div>
+      </Container>
+    </HeroBody>
+  </Hero>
+```
+
+As you can see in the previous code, there is a big component called `<Hero>`, Heros define the slides that we use. We reccommend to keep this structure and just modify the content inside the `HeroHeader` and `HeroBody`. Here you have some more information around <a href="https://bloomer.js.org/#/documentation/layout/hero">Heros</a>!
 
 ## 🤝 Contribuite to Deck
 
