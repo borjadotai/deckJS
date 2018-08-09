@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="811px" height="465px" viewBox="0 0 811 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="44" y="79" width="79" height="25"></rect>
+        <rect id="path-2" x="129" y="79" width="267" height="25"></rect>
+        <rect id="path-3" x="129" y="109" width="267" height="25"></rect>
+        <rect id="path-4" x="129" y="139" width="267" height="25"></rect>
+        <rect id="path-5" x="129" y="200" width="131" height="25"></rect>
+        <rect id="path-6" x="265" y="200" width="131" height="25"></rect>
+        <rect id="path-7" x="129" y="169" width="131" height="25"></rect>
+        <rect id="path-8" x="265" y="169" width="131" height="25"></rect>
+        <rect id="path-9" x="44" y="109" width="79" height="25"></rect>
+        <rect id="path-10" x="44" y="139" width="79" height="25"></rect>
+        <rect id="path-11" x="44" y="169" width="79" height="25"></rect>
+        <rect id="path-12" x="44" y="200" width="79" height="25"></rect>
+        <rect id="path-13" x="43" y="284" width="79" height="25"></rect>
+        <rect id="path-14" x="128" y="284" width="267" height="25"></rect>
+        <rect id="path-15" x="128" y="314" width="267" height="25"></rect>
+        <rect id="path-16" x="128" y="344" width="267" height="25"></rect>
+        <rect id="path-17" x="128" y="405" width="131" height="25"></rect>
+        <rect id="path-18" x="264" y="405" width="131" height="25"></rect>
+        <rect id="path-19" x="128" y="374" width="131" height="25"></rect>
+        <rect id="path-20" x="264" y="374" width="131" height="25"></rect>
+        <rect id="path-21" x="43" y="314" width="79" height="25"></rect>
+        <rect id="path-22" x="43" y="344" width="79" height="25"></rect>
+        <rect id="path-23" x="43" y="374" width="79" height="25"></rect>
+        <rect id="path-24" x="43" y="405" width="79" height="25"></rect>
+        <rect id="path-25" x="10" y="14" width="79" height="25"></rect>
+        <rect id="path-26" x="95" y="14" width="267" height="25"></rect>
+        <rect id="path-27" x="95" y="44" width="267" height="25"></rect>
+        <rect id="path-28" x="95" y="74" width="267" height="25"></rect>
+        <rect id="path-29" x="95" y="135" width="131" height="25"></rect>
+        <rect id="path-30" x="231" y="135" width="131" height="25"></rect>
+        <rect id="path-31" x="95" y="104" width="131" height="25"></rect>
+        <rect id="path-32" x="231" y="104" width="131" height="25"></rect>
+        <rect id="path-33" x="10" y="44" width="79" height="25"></rect>
+        <rect id="path-34" x="10" y="74" width="79" height="25"></rect>
+        <rect id="path-35" x="10" y="104" width="79" height="25"></rect>
+        <rect id="path-36" x="10" y="135" width="79" height="25"></rect>
+        <rect id="path-37" x="420" y="284" width="79" height="25"></rect>
+        <rect id="path-38" x="505" y="284" width="267" height="25"></rect>
+        <rect id="path-39" x="505" y="314" width="267" height="25"></rect>
+        <rect id="path-40" x="505" y="344" width="267" height="25"></rect>
+        <rect id="path-41" x="505" y="405" width="131" height="25"></rect>
+        <rect id="path-42" x="641" y="405" width="131" height="25"></rect>
+        <rect id="path-43" x="505" y="374" width="131" height="25"></rect>
+        <rect id="path-44" x="641" y="374" width="131" height="25"></rect>
+        <rect id="path-45" x="420" y="314" width="79" height="25"></rect>
+        <rect id="path-46" x="420" y="344" width="79" height="25"></rect>
+        <rect id="path-47" x="420" y="374" width="79" height="25"></rect>
+        <rect id="path-48" x="420" y="405" width="79" height="25"></rect>
+    </defs>
+    <g id="store" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="35.5" y="66.5" width="369" height="192"></rect>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="45.5" y="80.5" width="76" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="130.5" y="80.5" width="264" height="22"></rect>
+            </g>
+            <text id="OBJECT" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749969" fill="#FFFFFF">
+                <tspan x="323" y="250">OBJECT</tspan>
+            </text>
+            <text id="SLIDE" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749969" fill="#FFFFFF">
+                <tspan x="45" y="249">SLIDE</tspan>
+            </text>
+            <text id="SLIDE" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749969" fill="#FFFFFF">
+                <tspan x="420" y="250">SLIDE</tspan>
+            </text>
+            <text id="Title:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="54" y="97">Title:</tspan>
+            </text>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="242" y="97">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="130.5" y="110.5" width="264" height="22"></rect>
+            </g>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="242" y="127">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="130.5" y="140.5" width="264" height="22"></rect>
+            </g>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="242" y="157">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="130.5" y="201.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="266.5" y="201.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="130.5" y="170.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="266.5" y="170.5" width="128" height="22"></rect>
+            </g>
+            <text id="True" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="182" y="218">True</tspan>
+            </text>
+            <text id="Components" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="151" y="187">Components</tspan>
+            </text>
+            <text id="Component" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="290" y="187">Component</tspan>
+            </text>
+            <text id="False" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="313" y="218">False</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="45.5" y="110.5" width="76" height="22"></rect>
+            </g>
+            <text id="Subtitle:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="54" y="127">Subtitle:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="45.5" y="140.5" width="76" height="22"></rect>
+            </g>
+            <text id="Color:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="54" y="157">Color:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="45.5" y="170.5" width="76" height="22"></rect>
+            </g>
+            <text id="Content:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="54" y="187">Content:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-12"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="45.5" y="201.5" width="76" height="22"></rect>
+            </g>
+            <text id="Super:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="54" y="218">Super:</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="7" x="3.5" y="3.5" width="804" height="458"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="19.5" y="48.5" width="774" height="397"></rect>
+            <text id="STORE" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" letter-spacing="0.584999979" fill="#FFFFFF">
+                <tspan x="20" y="38">STORE</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="34.5" y="271.5" width="369" height="174"></rect>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-13"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="44.5" y="285.5" width="76" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-14"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="129.5" y="285.5" width="264" height="22"></rect>
+            </g>
+            <text id="Title:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="53" y="302">Title:</tspan>
+            </text>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="241" y="302">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-15"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="129.5" y="315.5" width="264" height="22"></rect>
+            </g>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="241" y="332">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-16"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="129.5" y="345.5" width="264" height="22"></rect>
+            </g>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="241" y="362">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-17"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="129.5" y="406.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-18"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="265.5" y="406.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-19"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="129.5" y="375.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-20"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="265.5" y="375.5" width="128" height="22"></rect>
+            </g>
+            <text id="True" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="181" y="423">True</tspan>
+            </text>
+            <text id="Components" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="150" y="392">Components</tspan>
+            </text>
+            <text id="Component" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="289" y="392">Component</tspan>
+            </text>
+            <text id="False" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="312" y="423">False</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-21"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="44.5" y="315.5" width="76" height="22"></rect>
+            </g>
+            <text id="Subtitle:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="53" y="332">Subtitle:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-22"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="44.5" y="345.5" width="76" height="22"></rect>
+            </g>
+            <text id="Color:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="53" y="362">Color:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-23"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="44.5" y="375.5" width="76" height="22"></rect>
+            </g>
+            <text id="Content:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="53" y="392">Content:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-24"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="44.5" y="406.5" width="76" height="22"></rect>
+            </g>
+            <text id="Super:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="53" y="423">Super:</tspan>
+            </text>
+            <g id="Group" transform="translate(410.000000, 65.000000)">
+                <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="1.5" y="1.5" width="369" height="192"></rect>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-25"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="11.5" y="15.5" width="76" height="22"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-26"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="96.5" y="15.5" width="264" height="22"></rect>
+                </g>
+                <text id="OBJECT" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749969" fill="#FFFFFF">
+                    <tspan x="289" y="185">OBJECT</tspan>
+                </text>
+                <text id="Title:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="20" y="32">Title:</tspan>
+                </text>
+                <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="208" y="32">String</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-27"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="96.5" y="45.5" width="264" height="22"></rect>
+                </g>
+                <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="208" y="62">String</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-28"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="96.5" y="75.5" width="264" height="22"></rect>
+                </g>
+                <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="208" y="92">String</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-29"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="96.5" y="136.5" width="128" height="22"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-30"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="232.5" y="136.5" width="128" height="22"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-31"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="96.5" y="105.5" width="128" height="22"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-32"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="232.5" y="105.5" width="128" height="22"></rect>
+                </g>
+                <text id="True" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="148" y="153">True</tspan>
+                </text>
+                <text id="Components" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="117" y="122">Components</tspan>
+                </text>
+                <text id="Component" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="256" y="122">Component</tspan>
+                </text>
+                <text id="False" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="279" y="153">False</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-33"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="11.5" y="45.5" width="76" height="22"></rect>
+                </g>
+                <text id="Subtitle:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="20" y="62">Subtitle:</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-34"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="11.5" y="75.5" width="76" height="22"></rect>
+                </g>
+                <text id="Color:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="20" y="92">Color:</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-35"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="11.5" y="105.5" width="76" height="22"></rect>
+                </g>
+                <text id="Content:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="20" y="122">Content:</tspan>
+                </text>
+                <g id="Rectangle">
+                    <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-36"></use>
+                    <rect stroke="#D22E4F" stroke-width="3" x="11.5" y="136.5" width="76" height="22"></rect>
+                </g>
+                <text id="Super:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                    <tspan x="20" y="153">Super:</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="411.5" y="271.5" width="369" height="174"></rect>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-37"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="421.5" y="285.5" width="76" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-38"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="506.5" y="285.5" width="264" height="22"></rect>
+            </g>
+            <text id="Title:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="430" y="302">Title:</tspan>
+            </text>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="618" y="302">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-39"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="506.5" y="315.5" width="264" height="22"></rect>
+            </g>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="618" y="332">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-40"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="506.5" y="345.5" width="264" height="22"></rect>
+            </g>
+            <text id="String" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="618" y="362">String</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-41"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="506.5" y="406.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-42"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="642.5" y="406.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-43"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="506.5" y="375.5" width="128" height="22"></rect>
+            </g>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-44"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="642.5" y="375.5" width="128" height="22"></rect>
+            </g>
+            <text id="True" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="558" y="423">True</tspan>
+            </text>
+            <text id="Components" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="527" y="392">Components</tspan>
+            </text>
+            <text id="Component" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="666" y="392">Component</tspan>
+            </text>
+            <text id="False" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="689" y="423">False</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-45"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="421.5" y="315.5" width="76" height="22"></rect>
+            </g>
+            <text id="Subtitle:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="430" y="332">Subtitle:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-46"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="421.5" y="345.5" width="76" height="22"></rect>
+            </g>
+            <text id="Color:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="430" y="362">Color:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-47"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="421.5" y="375.5" width="76" height="22"></rect>
+            </g>
+            <text id="Content:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="430" y="392">Content:</tspan>
+            </text>
+            <g id="Rectangle">
+                <use fill="#D22E4F" fill-rule="evenodd" xlink:href="#path-48"></use>
+                <rect stroke="#D22E4F" stroke-width="3" x="421.5" y="406.5" width="76" height="22"></rect>
+            </g>
+            <text id="Super:" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341249973" fill="#FFFFFF">
+                <tspan x="430" y="423">Super:</tspan>
+            </text>
+            <text id="(array-of-objects)" font-family="AvenirNext-Medium, Avenir Next" font-size="20" font-weight="400" letter-spacing="0.487499982" fill="#FFFFFF">
+                <tspan x="107" y="36">(array of objects)</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

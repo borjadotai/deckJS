@@ -5,8 +5,6 @@ import {
   faInstagram,
   faMediumM,
   faProductHunt,
-  faSpotify,
-  faTelegram,
   faTwitter,
 } from '@fortawesome/free-brands-svg-icons'
 
@@ -17,6 +15,20 @@ const SocialLinks = [
     classFontAwesome: faGithub,
     color: '#25292e',
     isPrimary: true,
+  },
+  {
+    id: 'GitLab',
+    href: 'https://gitlab.com/borjadotai',
+    classFontAwesome: faGitlab,
+    color: '#fa6d34',
+    isPrimary: false,
+  },
+  {
+    id: 'Instagram',
+    href: 'https://instagram.com/borjadotai',
+    classFontAwesome: faInstagram,
+    color: '#e1306c',
+    isPrimary: false,
   },
   {
     id: 'Medium',

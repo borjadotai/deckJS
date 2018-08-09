@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="811px" height="465px" viewBox="0 0 811 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="7" x="3.5" y="3.5" width="804" height="458"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="14.5" y="14.5" width="782" height="68"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="45.5" y="142.5" width="717" height="262"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="27.5" y="26.5" width="266" height="46"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="519.5" y="25.5" width="266" height="46"></rect>
+            <text id="Social-Media-|-Logo" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" letter-spacing="0.584999979" fill="#FFFFFF">
+                <tspan x="44" y="58">Social Media | Logo</tspan>
+            </text>
+            <text id="CONTENT" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" letter-spacing="0.584999979" fill="#FFFFFF">
+                <tspan x="346" y="279">CONTENT</tspan>
+            </text>
+            <text id="Menu-|-Links" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" letter-spacing="0.584999979" fill="#FFFFFF">
+                <tspan x="581" y="55">Menu | Links</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

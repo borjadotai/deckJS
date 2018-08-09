@@ -48,7 +48,7 @@ const Header = () => (
         </NavbarStart>
         <NavbarEnd style={{ display: 'flex', marginLeft: 'auto' }}>
           <NavbarRoute href="/" content="Home" />
-          <NavbarRoute href="https://github.com/P3rzival/DeckJS" content="GitHub" />
+          <NavbarRoute href="https://github.com/borjadotai/deckJS" content="GitHub" />
         </NavbarEnd>
       </NavbarBrand>
     </Navbar>

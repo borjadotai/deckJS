@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="811px" height="465px" viewBox="0 0 811 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="7" x="3.5" y="3.5" width="804" height="458"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="24.5" y="24.5" width="373" height="419"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="36.5" y="96.5" width="347" height="200"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="46.5" y="106.5" width="327" height="30"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="47.5" y="154.5" width="327" height="121"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="414.5" y="24.5" width="373" height="419"></rect>
+            <text id="SLIDE" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" letter-spacing="0.584999979" fill="#FFFFFF">
+                <tspan x="36" y="57">SLIDE</tspan>
+            </text>
+            <text id="Title-&amp;-Subtitle" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341250002" fill="#FFFFFF">
+                <tspan x="56" y="127">Title &amp; Subtitle</tspan>
+            </text>
+            <text id="CONTENT" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341250002" fill="#FFFFFF">
+                <tspan x="176" y="218">CONTENT</tspan>
+            </text>
+            <text id="--One-slide" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749999" fill="#FFFFFF">
+                <tspan x="45" y="337">- One slide</tspan>
+            </text>
+            <text id="--One-component" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749999" fill="#FFFFFF">
+                <tspan x="45" y="362">- One component</tspan>
+            </text>
+            <text id="--Super-value-==-fal" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749999" fill="#FFFFFF">
+                <tspan x="45" y="387">- Super value == false</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="428.5" y="96.5" width="347" height="200"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="438.5" y="106.5" width="327" height="30"></rect>
+            <rect id="Rectangle" stroke="#D22E4F" stroke-width="3" x="472.5" y="154.5" width="256" height="121"></rect>
+            <text id="Title-&amp;-Subtitle" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341250002" fill="#FFFFFF">
+                <tspan x="448" y="127">Title &amp; Subtitle</tspan>
+            </text>
+            <text id="CONTENT" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" letter-spacing="0.341250002" fill="#FFFFFF">
+                <tspan x="568" y="218">CONTENT</tspan>
+            </text>
+            <text id="&lt;" font-family="AvenirNext-Medium, Avenir Next" font-size="20" font-weight="400" letter-spacing="0.487500012" fill="#FFFFFF">
+                <tspan x="444" y="218">&lt;</tspan>
+            </text>
+            <text id="&gt;" font-family="AvenirNext-Medium, Avenir Next" font-size="20" font-weight="400" letter-spacing="0.487500012" fill="#FFFFFF">
+                <tspan x="742" y="220">&gt;</tspan>
+            </text>
+            <text id="--Multiple-slides" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749999" fill="#FFFFFF">
+                <tspan x="437" y="337">- Multiple slides</tspan>
+            </text>
+            <text id="--Multiple-component" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749999" fill="#FFFFFF">
+                <tspan x="437" y="362">- Multiple components</tspan>
+            </text>
+            <text id="--Super-value-==-tru" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" letter-spacing="0.438749999" fill="#FFFFFF">
+                <tspan x="437" y="387">- Super value == true</tspan>
+            </text>
+            <text id="SUPERSLIDE" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" letter-spacing="0.584999979" fill="#FFFFFF">
+                <tspan x="427" y="57">SUPERSLIDE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
