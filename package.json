@@ -22,7 +22,7 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "deck"
   ],
   "license": "MIT",
   "jest": {
