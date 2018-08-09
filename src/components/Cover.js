@@ -1,6 +1,6 @@
 import React from 'react'
 import { Header } from '../components'
-import logo from '../assets/logo.svg'
+import logo from '../assets/logo.png'
 import { Container, Hero, HeroHeader, HeroBody, Title, Button } from 'bloomer'
 
 const Text = [

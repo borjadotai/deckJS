@@ -1,0 +1,791 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cover should render 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Cover />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <withHelpersModifiers(HeroHeader)>
+          <Header />
+        </withHelpersModifiers(HeroHeader)>,
+        <withHelpersModifiers(HeroBody)>
+          <withHelpersModifiers(Container)
+            hasTextAlign="centered"
+          >
+            <img
+              src={Object {}}
+              style={
+                Object {
+                  "height": "12rem",
+                  "margin": "0 0 2rem 0",
+                }
+              }
+            />
+            <withHelpersModifiers(Title)
+              className="is-size-2 is-size-4-mobile has-text-weight-light"
+            >
+              Create your best presentation, as a 
+              <span
+                className="has-text-weight-normal"
+              >
+                static webapp
+              </span>
+               with 
+              <span
+                className="has-text-weight-normal"
+              >
+                DeckJS
+              </span>
+              .
+            </withHelpersModifiers(Title)>
+            <withHelpersModifiers(Title)
+              className="is-size-3 is-size-5-mobile has-text-weight-light"
+            >
+              Thanks for having installed DeckJS. Welcome to a new way of making webs.
+            </withHelpersModifiers(Title)>
+            <withHelpersModifiers(Title)
+              className="is-size-4 is-size-6-mobile has-text-weight-light"
+            >
+              Please give a star and upvote or like on whatever platform you found us! 🙏❤️
+            </withHelpersModifiers(Title)>
+            <div
+              className="isCentered"
+            >
+              <iframe
+                frameborder="0"
+                height="30px"
+                scrolling="0"
+                src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                width="160px"
+              />
+              <iframe
+                frameborder="0"
+                height="30px"
+                scrolling="0"
+                src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                width="158px"
+              />
+            </div>
+          </withHelpersModifiers(Container)>
+        </withHelpersModifiers(HeroBody)>,
+      ],
+      "isColor": "primary",
+      "isFullHeight": true,
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": <Header />,
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": <withHelpersModifiers(Container)
+            hasTextAlign="centered"
+          >
+            <img
+              src={Object {}}
+              style={
+                Object {
+                  "height": "12rem",
+                  "margin": "0 0 2rem 0",
+                }
+              }
+            />
+            <withHelpersModifiers(Title)
+              className="is-size-2 is-size-4-mobile has-text-weight-light"
+            >
+              Create your best presentation, as a 
+              <span
+                className="has-text-weight-normal"
+              >
+                static webapp
+              </span>
+               with 
+              <span
+                className="has-text-weight-normal"
+              >
+                DeckJS
+              </span>
+              .
+            </withHelpersModifiers(Title)>
+            <withHelpersModifiers(Title)
+              className="is-size-3 is-size-5-mobile has-text-weight-light"
+            >
+              Thanks for having installed DeckJS. Welcome to a new way of making webs.
+            </withHelpersModifiers(Title)>
+            <withHelpersModifiers(Title)
+              className="is-size-4 is-size-6-mobile has-text-weight-light"
+            >
+              Please give a star and upvote or like on whatever platform you found us! 🙏❤️
+            </withHelpersModifiers(Title)>
+            <div
+              className="isCentered"
+            >
+              <iframe
+                frameborder="0"
+                height="30px"
+                scrolling="0"
+                src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                width="160px"
+              />
+              <iframe
+                frameborder="0"
+                height="30px"
+                scrolling="0"
+                src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                width="158px"
+              />
+            </div>
+          </withHelpersModifiers(Container)>,
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": Array [
+              <img
+                src={Object {}}
+                style={
+                  Object {
+                    "height": "12rem",
+                    "margin": "0 0 2rem 0",
+                  }
+                }
+              />,
+              <withHelpersModifiers(Title)
+                className="is-size-2 is-size-4-mobile has-text-weight-light"
+              >
+                Create your best presentation, as a 
+                <span
+                  className="has-text-weight-normal"
+                >
+                  static webapp
+                </span>
+                 with 
+                <span
+                  className="has-text-weight-normal"
+                >
+                  DeckJS
+                </span>
+                .
+              </withHelpersModifiers(Title)>,
+              <withHelpersModifiers(Title)
+                className="is-size-3 is-size-5-mobile has-text-weight-light"
+              >
+                Thanks for having installed DeckJS. Welcome to a new way of making webs.
+              </withHelpersModifiers(Title)>,
+              <withHelpersModifiers(Title)
+                className="is-size-4 is-size-6-mobile has-text-weight-light"
+              >
+                Please give a star and upvote or like on whatever platform you found us! 🙏❤️
+              </withHelpersModifiers(Title)>,
+              <div
+                className="isCentered"
+              >
+                <iframe
+                  frameborder="0"
+                  height="30px"
+                  scrolling="0"
+                  src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                  width="160px"
+                />
+                <iframe
+                  frameborder="0"
+                  height="30px"
+                  scrolling="0"
+                  src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                  width="158px"
+                />
+              </div>,
+            ],
+            "hasTextAlign": "centered",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "src": Object {},
+                "style": Object {
+                  "height": "12rem",
+                  "margin": "0 0 2rem 0",
+                },
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "img",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": Array [
+                  "Create your best presentation, as a ",
+                  <span
+                    className="has-text-weight-normal"
+                  >
+                    static webapp
+                  </span>,
+                  " with ",
+                  <span
+                    className="has-text-weight-normal"
+                  >
+                    DeckJS
+                  </span>,
+                  ".",
+                ],
+                "className": "is-size-2 is-size-4-mobile has-text-weight-light",
+              },
+              "ref": null,
+              "rendered": Array [
+                "Create your best presentation, as a ",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "static webapp",
+                    "className": "has-text-weight-normal",
+                  },
+                  "ref": null,
+                  "rendered": "static webapp",
+                  "type": "span",
+                },
+                " with ",
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "DeckJS",
+                    "className": "has-text-weight-normal",
+                  },
+                  "ref": null,
+                  "rendered": "DeckJS",
+                  "type": "span",
+                },
+                ".",
+              ],
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": "Thanks for having installed DeckJS. Welcome to a new way of making webs.",
+                "className": "is-size-3 is-size-5-mobile has-text-weight-light",
+              },
+              "ref": null,
+              "rendered": "Thanks for having installed DeckJS. Welcome to a new way of making webs.",
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": "Please give a star and upvote or like on whatever platform you found us! 🙏❤️",
+                "className": "is-size-4 is-size-6-mobile has-text-weight-light",
+              },
+              "ref": null,
+              "rendered": "Please give a star and upvote or like on whatever platform you found us! 🙏❤️",
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <iframe
+                    frameborder="0"
+                    height="30px"
+                    scrolling="0"
+                    src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                    width="160px"
+                  />,
+                  <iframe
+                    frameborder="0"
+                    height="30px"
+                    scrolling="0"
+                    src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                    width="158px"
+                  />,
+                ],
+                "className": "isCentered",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "frameborder": "0",
+                    "height": "30px",
+                    "scrolling": "0",
+                    "src": "https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large",
+                    "width": "160px",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "iframe",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "frameborder": "0",
+                    "height": "30px",
+                    "scrolling": "0",
+                    "src": "https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large",
+                    "width": "158px",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "iframe",
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+    ],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <withHelpersModifiers(HeroHeader)>
+            <Header />
+          </withHelpersModifiers(HeroHeader)>,
+          <withHelpersModifiers(HeroBody)>
+            <withHelpersModifiers(Container)
+              hasTextAlign="centered"
+            >
+              <img
+                src={Object {}}
+                style={
+                  Object {
+                    "height": "12rem",
+                    "margin": "0 0 2rem 0",
+                  }
+                }
+              />
+              <withHelpersModifiers(Title)
+                className="is-size-2 is-size-4-mobile has-text-weight-light"
+              >
+                Create your best presentation, as a 
+                <span
+                  className="has-text-weight-normal"
+                >
+                  static webapp
+                </span>
+                 with 
+                <span
+                  className="has-text-weight-normal"
+                >
+                  DeckJS
+                </span>
+                .
+              </withHelpersModifiers(Title)>
+              <withHelpersModifiers(Title)
+                className="is-size-3 is-size-5-mobile has-text-weight-light"
+              >
+                Thanks for having installed DeckJS. Welcome to a new way of making webs.
+              </withHelpersModifiers(Title)>
+              <withHelpersModifiers(Title)
+                className="is-size-4 is-size-6-mobile has-text-weight-light"
+              >
+                Please give a star and upvote or like on whatever platform you found us! 🙏❤️
+              </withHelpersModifiers(Title)>
+              <div
+                className="isCentered"
+              >
+                <iframe
+                  frameborder="0"
+                  height="30px"
+                  scrolling="0"
+                  src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                  width="160px"
+                />
+                <iframe
+                  frameborder="0"
+                  height="30px"
+                  scrolling="0"
+                  src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                  width="158px"
+                />
+              </div>
+            </withHelpersModifiers(Container)>
+          </withHelpersModifiers(HeroBody)>,
+        ],
+        "isColor": "primary",
+        "isFullHeight": true,
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": <Header />,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {},
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": <withHelpersModifiers(Container)
+              hasTextAlign="centered"
+            >
+              <img
+                src={Object {}}
+                style={
+                  Object {
+                    "height": "12rem",
+                    "margin": "0 0 2rem 0",
+                  }
+                }
+              />
+              <withHelpersModifiers(Title)
+                className="is-size-2 is-size-4-mobile has-text-weight-light"
+              >
+                Create your best presentation, as a 
+                <span
+                  className="has-text-weight-normal"
+                >
+                  static webapp
+                </span>
+                 with 
+                <span
+                  className="has-text-weight-normal"
+                >
+                  DeckJS
+                </span>
+                .
+              </withHelpersModifiers(Title)>
+              <withHelpersModifiers(Title)
+                className="is-size-3 is-size-5-mobile has-text-weight-light"
+              >
+                Thanks for having installed DeckJS. Welcome to a new way of making webs.
+              </withHelpersModifiers(Title)>
+              <withHelpersModifiers(Title)
+                className="is-size-4 is-size-6-mobile has-text-weight-light"
+              >
+                Please give a star and upvote or like on whatever platform you found us! 🙏❤️
+              </withHelpersModifiers(Title)>
+              <div
+                className="isCentered"
+              >
+                <iframe
+                  frameborder="0"
+                  height="30px"
+                  scrolling="0"
+                  src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                  width="160px"
+                />
+                <iframe
+                  frameborder="0"
+                  height="30px"
+                  scrolling="0"
+                  src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                  width="158px"
+                />
+              </div>
+            </withHelpersModifiers(Container)>,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "children": Array [
+                <img
+                  src={Object {}}
+                  style={
+                    Object {
+                      "height": "12rem",
+                      "margin": "0 0 2rem 0",
+                    }
+                  }
+                />,
+                <withHelpersModifiers(Title)
+                  className="is-size-2 is-size-4-mobile has-text-weight-light"
+                >
+                  Create your best presentation, as a 
+                  <span
+                    className="has-text-weight-normal"
+                  >
+                    static webapp
+                  </span>
+                   with 
+                  <span
+                    className="has-text-weight-normal"
+                  >
+                    DeckJS
+                  </span>
+                  .
+                </withHelpersModifiers(Title)>,
+                <withHelpersModifiers(Title)
+                  className="is-size-3 is-size-5-mobile has-text-weight-light"
+                >
+                  Thanks for having installed DeckJS. Welcome to a new way of making webs.
+                </withHelpersModifiers(Title)>,
+                <withHelpersModifiers(Title)
+                  className="is-size-4 is-size-6-mobile has-text-weight-light"
+                >
+                  Please give a star and upvote or like on whatever platform you found us! 🙏❤️
+                </withHelpersModifiers(Title)>,
+                <div
+                  className="isCentered"
+                >
+                  <iframe
+                    frameborder="0"
+                    height="30px"
+                    scrolling="0"
+                    src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                    width="160px"
+                  />
+                  <iframe
+                    frameborder="0"
+                    height="30px"
+                    scrolling="0"
+                    src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                    width="158px"
+                  />
+                </div>,
+              ],
+              "hasTextAlign": "centered",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "src": Object {},
+                  "style": Object {
+                    "height": "12rem",
+                    "margin": "0 0 2rem 0",
+                  },
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": Array [
+                    "Create your best presentation, as a ",
+                    <span
+                      className="has-text-weight-normal"
+                    >
+                      static webapp
+                    </span>,
+                    " with ",
+                    <span
+                      className="has-text-weight-normal"
+                    >
+                      DeckJS
+                    </span>,
+                    ".",
+                  ],
+                  "className": "is-size-2 is-size-4-mobile has-text-weight-light",
+                },
+                "ref": null,
+                "rendered": Array [
+                  "Create your best presentation, as a ",
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "static webapp",
+                      "className": "has-text-weight-normal",
+                    },
+                    "ref": null,
+                    "rendered": "static webapp",
+                    "type": "span",
+                  },
+                  " with ",
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "DeckJS",
+                      "className": "has-text-weight-normal",
+                    },
+                    "ref": null,
+                    "rendered": "DeckJS",
+                    "type": "span",
+                  },
+                  ".",
+                ],
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": "Thanks for having installed DeckJS. Welcome to a new way of making webs.",
+                  "className": "is-size-3 is-size-5-mobile has-text-weight-light",
+                },
+                "ref": null,
+                "rendered": "Thanks for having installed DeckJS. Welcome to a new way of making webs.",
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": "Please give a star and upvote or like on whatever platform you found us! 🙏❤️",
+                  "className": "is-size-4 is-size-6-mobile has-text-weight-light",
+                },
+                "ref": null,
+                "rendered": "Please give a star and upvote or like on whatever platform you found us! 🙏❤️",
+                "type": [Function],
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <iframe
+                      frameborder="0"
+                      height="30px"
+                      scrolling="0"
+                      src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+                      width="160px"
+                    />,
+                    <iframe
+                      frameborder="0"
+                      height="30px"
+                      scrolling="0"
+                      src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
+                      width="158px"
+                    />,
+                  ],
+                  "className": "isCentered",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "frameborder": "0",
+                      "height": "30px",
+                      "scrolling": "0",
+                      "src": "https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large",
+                      "width": "160px",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "iframe",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "frameborder": "0",
+                      "height": "30px",
+                      "scrolling": "0",
+                      "src": "https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large",
+                      "width": "158px",
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": "iframe",
+                  },
+                ],
+                "type": "div",
+              },
+            ],
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
