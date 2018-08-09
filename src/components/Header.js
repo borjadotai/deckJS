@@ -22,7 +22,7 @@ const LinkList = [
 ]
 
 const NavbarRoute = props => (
-  <NavbarItem href={props.href} onClick={false}>
+  <NavbarItem href={props.href}>
     {props.content}
   </NavbarItem>
 )
@@ -48,7 +48,7 @@ const Header = () => (
         </NavbarStart>
         <NavbarEnd style={{ display: 'flex', marginLeft: 'auto' }}>
           <NavbarRoute href="/" content="Home" />
-          <NavbarRoute href="https://github.com/P3rzival/DeckJS" content="GitHub" />
+          <NavbarRoute href="https://github.com/borjadotai/DeckJS" content="GitHub" />
         </NavbarEnd>
       </NavbarBrand>
     </Navbar>

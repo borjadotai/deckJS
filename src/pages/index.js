@@ -9,6 +9,7 @@ const typeSelector = (slide) => {
       subtitle={slide.subtitle}
       color={slide.color}
       content={slide.content}
+      key={slide.title}
     />
   } else
   {
@@ -17,6 +18,7 @@ const typeSelector = (slide) => {
       subtitle={slide.subtitle}
       color={slide.color}
       content={slide.content}
+      key={slide.title}
     />
   }
 }

@@ -22,30 +22,33 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "deck"
+    "deck", "deckJS", "slides", "static", "webapps"
   ],
   "license": "MIT",
   "jest": {
     "setupTestFrameworkScriptFile": "<rootDir>src/setupTests.js",
     "testURL": "http://localhost",
     "testMatch": [
-      "**/test/?(*.)+(spec|test).js?(x)"
+      "**/test/tests/**/?(*.)+(spec|test).js?(x)"
     ],
     "collectCoverageFrom": [
       "**/src/**/*.{js,jsx}",
       "!**/src/data/*.{js,jsx}",
       "!**/src/data/content/*.{js,jsx}",
+      "!**/src/components/index.js",
+      "!**/src/data/content/Slide2/index.js",
       "!**/node_modules/**"
     ],
     "moduleNameMapper": {
-      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/test/mocks/fileMock.js"
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/test/mocks/fileMock.js",
+      "\\.(css|less|sass)$": "<rootDir>/test/mocks/styleMock.js"
     }
   },
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop",
     "test": "jest --coverage",
-    "test:watch": "jest -- --watch"
+    "test:watch": "jest --watch"
   },
   "devDependencies": {
     "babel-jest": "^23.4.2",
