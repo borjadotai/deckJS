@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://deckjs.netlify.com">
-    <img alt="Gatsby" src="./src/assets/logo.svg" />
+    <img alt="Gatsby" src="./src/assets/logo.png" />
   </a>
 </p>
 
