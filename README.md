@@ -58,14 +58,15 @@ You can get a new Deck up and running on your local dev environment in 5 minutes
     Next, move into your new site’s directory and start it up:
 
     ```sh
+    # get inside the project
     cd deckJS
-    
+    # get it running in dev mode
     yarn dev
     ```
 
 3.  **Open the source code and start editing!**
 
-Your site is now running at `http://localhost:8000`. Open the the `my-blazing-deck` directory in your code editor of choice (which will probably be VSCode or Atom 😜) and start editing. Save your changes and the browser will update in real time!
+    Your site is now running at `http://localhost:8000`. Open the the `my-blazing-deck` directory in your code editor of choice (which will probably be VSCode or Atom 😜) and start editing. Save your changes and the browser will update in real time!
 
 At this point, you’ve got a fully functional Deck! For additional information on how you can customize your Deck, keep on reading this guide.
 
