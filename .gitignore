@@ -9,3 +9,5 @@ yarn-error.log
 
 /test
 /coverage
+
+/src/setupTests.js
