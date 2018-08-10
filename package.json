@@ -1,35 +1,68 @@
 {
-  "name": "ShowJS",
-  "description": "ShowJS library for slide deck web apps",
-  "version": "0.1.0",
-  "author": "Borja <hi@borja.ai>",
+  "name": "deckjs",
+  "description": "Turn beautiful slide decks into gorgeous webapps",
+  "version": "1.0.0",
+  "author": "@borjadotai <borja@jarvin.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borjadotai/DeckJS"
+  },
+  "bugs": {
+    "url": "https://github.com/borjadotai/DeckJS/issues"
+  },
+  "homepage": "https://deckjs.borja.ai",
+  "keywords": [
+    "deck", "deckJS", "slides", "static", "webapps"
+  ],
+  "license": "MIT",
+  "jest": {
+    "setupTestFrameworkScriptFile": "<rootDir>src/setupTests.js",
+    "testURL": "http://localhost",
+    "testMatch": [
+      "**/test/tests/**/?(*.)+(spec|test).js?(x)"
+    ],
+    "collectCoverageFrom": [
+      "**/src/**/*.{js,jsx}",
+      "!**/src/data/**",
+      "!**/src/components/index.js",
+      "!**/node_modules/**"
+    ],
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/test/mocks/fileMock.js",
+      "\\.(css|less|sass)$": "<rootDir>/test/mocks/styleMock.js"
+    }
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-brands-svg-icons": "^5.2.0",
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
-    "@fortawesome/react-fontawesome": "0.1.0-11",
+    "@fortawesome/react-fontawesome": "0.1.1",
     "bloomer": "^0.6.3",
-    "bulma": "^0.6.2",
+    "bulma": "^0.7.1",
     "font-awesome": "^4.7.0",
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.39",
     "gatsby-plugin-react-helmet": "^2.0.8",
     "gatsby-plugin-sass": "^1.0.26",
     "i": "^0.3.6",
-    "npm": "^6.2.0",
+    "npm": "^6.3.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
     "react-helmet": "^5.2.0"
   },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop",
-    "format": "prettier --write 'src/**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
   },
   "devDependencies": {
-    "prettier": "^1.11.1"
+    "babel-jest": "^23.4.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^23.4.2",
+    "react-test-renderer": "^16.4.2"
   }
 }

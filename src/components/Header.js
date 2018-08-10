@@ -22,7 +22,7 @@ const LinkList = [
 ]
 
 const NavbarRoute = props => (
-  <NavbarItem href={props.href} onClick={false}>
+  <NavbarItem href={props.href}>
     {props.content}
   </NavbarItem>
 )

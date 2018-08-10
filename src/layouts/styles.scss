@@ -37,3 +37,13 @@ $success: #8A4D76;
   margin: 2rem 0 0 0;
   padding: 0 auto;
 }
+
+.logo {
+  height: 10rem;
+  margin: 0 0 2rem 0;
+
+  @media (min-width: 1024px) {
+    height: 12rem;
+    margin: 0 0 .5rem 0;
+  }
+}

@@ -37,7 +37,7 @@ class SuperSlide extends React.Component {
             {
               (this.state.location == (this.props.content.length - 1)) ?
               '' :
-              <a onClick={this.nextSlide.bind(this)}>
+              <a onClick={this.nextSlide.bind(this)} id='slide-next' >
                 <FontAwesomeIcon
                   className="has-text-light"
                   icon={faChevronRight}
@@ -53,7 +53,7 @@ class SuperSlide extends React.Component {
       return (
         <Columns isCentered>
           <Column style={{display: 'flex', alignItems: 'center'}} className='is-one-fifth'>
-            <a onClick={this.prevSlide.bind(this)}>
+            <a onClick={this.prevSlide.bind(this)} id='slide-prev' >
               <FontAwesomeIcon
                 className="has-text-light"
                 icon={faChevronLeft}
@@ -69,7 +69,7 @@ class SuperSlide extends React.Component {
             {
               (this.state.location == (this.props.content.length - 1)) ?
               '' :
-              <a onClick={this.nextSlide.bind(this)}>
+              <a onClick={this.nextSlide.bind(this)} id='slide-next' >
                 <FontAwesomeIcon
                   className="has-text-light"
                   icon={faChevronRight}
@@ -86,7 +86,7 @@ class SuperSlide extends React.Component {
 
   render() {
     return (
-      <Hero isFullHeight isColor={this.props.color} key={this.props.title}>
+      <Hero isFullHeight isColor={this.props.color} key={this.props.key}>
         <HeroBody style={{ display: 'flex', flexDirection: 'column' }}>
           <SlideTitle title={this.props.title} subtitle={this.props.subtitle} />
           <Container hasTextAlign="centered">
