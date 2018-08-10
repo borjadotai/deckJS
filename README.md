@@ -18,20 +18,23 @@
 
 Deck is a modern framework that lets you turn slide decks into fast, great looking webapps.
 
--   **Share what you want in the best format** 
+-   **Share what you want in the best format:** 
     Get all the benefits of sharing information as a slide deck. Simple, minimalistic, elegant. 🎩
 
--   **Keep the web powers** 
+-   **Keep the web powers:** 
     Slide decks are an amazing way of showcasing information, but in a world as wide as the web, 
     it's powers are not enough. Get the best out of both worlds, keep the slides format, keep the 
     webapp superpowers! 😱
     
--   **Keep it Simple, Saxophone**
+-   **Keep it Simple, Saxophone:**
     Creating a web to shwocase some information shouldn't take ages. Creating  slide deck doesn't, 
     why would a web? Turn your ideas into reality in a matter of minutes using the Store 🐇
     
--   **Write in JS**
+-   **Write in JS:**
     Oh come on, you know you love the fact that we are using React as much as we do! ❤️
+    
+-   **Official Web:**
+    Have a look at a wek made with deck! That's right, the <a href="https://deckjs.borja.ai">official website</a> was made using deckJS! 🎉
     
 ## What’s In This Document
 
@@ -154,7 +157,7 @@ If you feel like there's anything that should be different, any bug or simply an
 
 This is an Open Source project and so we would love to see as many people as possible involved collaborating to make Deck evolve day after day! Join us and make webs great again 😜😂
 
-## ❤️ Join the family
+## 🌍 Join the family
 
 Are you planning to use or have you used Deck already? 
 Mind telling us what you made? We are putting together a portfolio section on the official web and we would love to add a small thumbnail with a link to your deck to show what amazing things can be built with DeckJS!
