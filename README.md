@@ -151,7 +151,7 @@ If you've played with component before, let me introduce you to a couple of frie
 
 As you can see in the previous code, there is a big component called `<Hero>`, Heros define the slides that we use. We reccommend to keep this structure and just modify the content inside the `HeroHeader` and `HeroBody`. Here you have some more information around <a href="https://bloomer.js.org/#/documentation/layout/hero">Heros</a>!
 
-## 🤝 Contribuite to Deck
+## 🤝 Contribute to Deck
 
 If you feel like there's anything that should be different, any bug or simply any feature that you would like to see on DeckJS, please feel free to create a new issue, make a PR or contact me!
 
